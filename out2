@@ -1,0 +1,16 @@
+command.cc
+command.h
+command.o
+lex.yy.c
+lex.yy.o
+log.txt
+Makefile
+out1
+README.md
+shell
+shell.l
+shell.y
+y.tab.c
+y.tab.h
+y.tab.o
+command.h
