@@ -1,8 +1,8 @@
-# Linux-Shell
+# Linux-MiniShell
 This project is implementing a Linux shell, handling execution of commands using functions as: fork(), execvp(), pipe(), and wait().
 The user's input is taken by a flex tool to be identified then parsed by a yacc parser.
 ## Table of Contents
-- [Linux-Shell](#linux-shell)
+- [Linux-MiniShell](#linux-minishell)
   - [Features](#features)
   - [How to run](#how-to-run)
   - [Lexical Analysis](#lexical-analysis)
